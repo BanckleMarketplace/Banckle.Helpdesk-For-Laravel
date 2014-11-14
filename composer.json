@@ -1,0 +1,22 @@
+{
+    "name": "banckle/helpdesk-laravel",
+    "description": "This is a Laravel Package to use Banckle.Helpdesk SDK for PHP in Laravel applications quickly and easily",
+"keywords": ["Banckle", "Cloud", "SDK", "Laravel", "Helpdesk"],
+"homepage": "https://github.com/BanckleMarketplace/Banckle.Helpdesk-For-Laravel",
+    "authors": [
+        {
+            "name": "Masood Anwer",
+            "email": "masood.anwer@aspose.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Banckle\\Helpdesk": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
